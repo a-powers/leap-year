@@ -21,15 +21,4 @@ year = int(input("Enter a year: "))
 month = int(input("Enter a month: "))
 days = days_in_month(year, month)
 print(days)
-
-
-
-
-
-
-
-
-
-
-
-
+print(days)
